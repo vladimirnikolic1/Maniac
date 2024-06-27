@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="2">
+  <advance width="516"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="30" y="697" type="line"/>
+      <point x="30" y="464" type="line"/>
+      <point x="253" y="464" type="line"/>
+      <point x="253" y="0" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="485" y="697" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w516m30,697l30,464l253,464l253,0l485,0l485,697</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 464 233</string>
+          <string>vstem 253 232</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
