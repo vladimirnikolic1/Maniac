@@ -16,6 +16,8 @@ Weight | wght | 400 to 800 | 400 | Regular, Grunged
 
 ![Image](documentation/image2.png)
 
+![Image](documentation/image3.png)
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
